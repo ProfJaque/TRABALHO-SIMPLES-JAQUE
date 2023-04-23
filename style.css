@@ -1,4 +1,13 @@
+*{
+    margin:0;
+    padding:0;
+
+}
 header{
-    background-color: #B4EAF6;
+    text-align: center;
+    background-color: #247e92;
     color: #0A0424;
+    padding: 15px;
+    
+
 }
